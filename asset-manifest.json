@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https//:TAHERBA/github.io/react-counter/static/css/main.ce2e4713.css",
-    "main.js": "/https//:TAHERBA/github.io/react-counter/static/js/main.9e2201fb.js",
-    "static/js/787.e458d2a5.chunk.js": "/https//:TAHERBA/github.io/react-counter/static/js/787.e458d2a5.chunk.js",
-    "index.html": "/https//:TAHERBA/github.io/react-counter/index.html",
-    "main.ce2e4713.css.map": "/https//:TAHERBA/github.io/react-counter/static/css/main.ce2e4713.css.map",
-    "main.9e2201fb.js.map": "/https//:TAHERBA/github.io/react-counter/static/js/main.9e2201fb.js.map",
-    "787.e458d2a5.chunk.js.map": "/https//:TAHERBA/github.io/react-counter/static/js/787.e458d2a5.chunk.js.map"
+    "main.css": "/https//:TAHERBA.github.io/react-counter/static/css/main.ce2e4713.css",
+    "main.js": "/https//:TAHERBA.github.io/react-counter/static/js/main.5c428f5a.js",
+    "static/js/787.e458d2a5.chunk.js": "/https//:TAHERBA.github.io/react-counter/static/js/787.e458d2a5.chunk.js",
+    "index.html": "/https//:TAHERBA.github.io/react-counter/index.html",
+    "main.ce2e4713.css.map": "/https//:TAHERBA.github.io/react-counter/static/css/main.ce2e4713.css.map",
+    "main.5c428f5a.js.map": "/https//:TAHERBA.github.io/react-counter/static/js/main.5c428f5a.js.map",
+    "787.e458d2a5.chunk.js.map": "/https//:TAHERBA.github.io/react-counter/static/js/787.e458d2a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ce2e4713.css",
-    "static/js/main.9e2201fb.js"
+    "static/js/main.5c428f5a.js"
   ]
 }
